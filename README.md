@@ -6,3 +6,5 @@
 - 📫 How to reach me: You can find me on Twitter as lysnbrl!
 - 😄 Pronouns: They/them mostly, but I also go by she/her!
 - ⚡ Fun fact: I really like Java, I think it is my favorite language!
+
+[![@lysnbrl's Holopin board](https://holopin.me/lysnbrl)](https://holopin.io/@lysnbrl)
